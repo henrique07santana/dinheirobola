@@ -1,0 +1,381 @@
+﻿Time da Casa,Time Visitante,Tipo,Campeonato,Gols do Time da Casa,Gols do Time Visitante,Rodada,Ano,Mês,Dia,Hora,Resultado
+Ceará,Vasco,Partida,Brasileirão 2018,0,0,38,2018,12,2,17:00,Empate
+Bahia,Cruzeiro,Partida,Brasileirão 2018,0,0,38,2018,12,2,17:00,Empate
+Paraná,Internacional,Partida,Brasileirão 2018,1,1,38,2018,12,2,17:00,Empate
+Chapecoense,São Paulo,Partida,Brasileirão 2018,1,0,38,2018,12,2,17:00,Vitória
+Grêmio,Corinthians,Partida,Brasileirão 2018,1,0,38,2018,12,2,17:00,Vitória
+Sport,Santos,Partida,Brasileirão 2018,2,0,38,2018,12,2,17:00,Vitória
+Fluminense,América Mineiro,Partida,Brasileirão 2018,1,0,38,2018,12,2,17:00,Vitória
+Palmeiras,Vitória,Partida,Brasileirão 2018,3,2,38,2018,12,2,17:00,Vitória
+Flamengo,Atlético Paranaense,Partida,Brasileirão 2018,1,2,38,2018,12,1,19:00,Derrota
+Atlético Mineiro,Botafogo,Partida,Brasileirão 2018,1,0,38,2018,12,1,19:00,Vitória
+Botafogo,Paraná,Partida,Brasileirão 2018,2,1,37,2018,11,26,20:00,Vitória
+São Paulo,Sport,Partida,Brasileirão 2018,0,0,37,2018,11,26,20:00,Empate
+América Mineiro,Bahia,Partida,Brasileirão 2018,1,0,37,2018,11,25,19:00,Vitória
+Corinthians,Chapecoense,Partida,Brasileirão 2018,0,0,37,2018,11,25,19:00,Empate
+Internacional,Fluminense,Partida,Brasileirão 2018,2,0,37,2018,11,25,19:00,Vitória
+Atlético Paranaense,Ceará,Partida,Brasileirão 2018,2,2,37,2018,11,25,17:00,Empate
+Cruzeiro,Flamengo,Partida,Brasileirão 2018,0,2,37,2018,11,25,17:00,Derrota
+Vasco,Palmeiras,Partida,Brasileirão 2018,0,1,37,2018,11,25,17:00,Derrota
+Vitória,Grêmio,Partida,Brasileirão 2018,0,0,37,2018,11,25,17:00,Empate
+Santos,Atlético Mineiro,Partida,Brasileirão 2018,3,2,37,2018,11,24,20:00,Vitória
+Bahia,Fluminense,Partida,Brasileirão 2018,2,0,36,2018,11,22,21:00,Vitória
+Ceará,Paraná,Partida,Brasileirão 2018,1,0,36,2018,11,22,21:00,Vitória
+Chapecoense,Sport,Partida,Brasileirão 2018,2,1,36,2018,11,22,21:00,Vitória
+Vasco,São Paulo,Partida,Brasileirão 2018,2,0,36,2018,11,22,20:00,Vitória
+Atlético Paranaense,Corinthians,Partida,Brasileirão 2018,1,0,36,2018,11,21,21:45,Vitória
+Cruzeiro,Vitória,Partida,Brasileirão 2018,3,0,36,2018,11,21,21:45,Vitória
+Flamengo,Grêmio,Partida,Brasileirão 2018,2,0,36,2018,11,21,21:45,Vitória
+Palmeiras,América Mineiro,Partida,Brasileirão 2018,4,0,36,2018,11,21,21:45,Vitória
+Santos,Botafogo,Partida,Brasileirão 2018,1,1,36,2018,11,21,21:00,Empate
+Internacional,Atlético Mineiro,Partida,Brasileirão 2018,1,2,36,2018,11,21,19:30,Derrota
+Fluminense,Ceará,Partida,Brasileirão 2018,0,0,35,2018,11,19,20:00,Empate
+Grêmio,Chapecoense,Partida,Brasileirão 2018,2,0,35,2018,11,18,19:00,Vitória
+São Paulo,Cruzeiro,Partida,Brasileirão 2018,1,0,35,2018,11,18,19:00,Vitória
+América Mineiro,Santos,Partida,Brasileirão 2018,2,1,35,2018,11,18,17:00,Vitória
+Botafogo,Internacional,Partida,Brasileirão 2018,1,0,35,2018,11,18,17:00,Vitória
+Paraná,Palmeiras,Partida,Brasileirão 2018,1,1,35,2018,11,18,17:00,Empate
+Sport,Flamengo,Partida,Brasileirão 2018,0,1,35,2018,11,18,17:00,Derrota
+Atlético Mineiro,Bahia,Partida,Brasileirão 2018,1,0,35,2018,11,17,21:00,Vitória
+Corinthians,Vasco,Partida,Brasileirão 2018,1,0,35,2018,11,17,19:00,Vitória
+Vitória,Atlético Paranaense,Partida,Brasileirão 2018,1,2,35,2018,11,17,19:00,Derrota
+Internacional,América Mineiro,Partida,Brasileirão 2018,2,0,34,2018,11,15,21:00,Vitória
+São Paulo,Grêmio,Partida,Brasileirão 2018,1,1,34,2018,11,15,19:00,Empate
+Chapecoense,Botafogo,Partida,Brasileirão 2018,0,1,34,2018,11,15,17:00,Derrota
+Flamengo,Santos,Partida,Brasileirão 2018,1,0,34,2018,11,15,17:00,Vitória
+Cruzeiro,Corinthians,Partida,Brasileirão 2018,1,0,34,2018,11,14,21:45,Vitória
+Palmeiras,Fluminense,Partida,Brasileirão 2018,3,0,34,2018,11,14,21:45,Vitória
+Sport,Vitória,Partida,Brasileirão 2018,0,0,34,2018,11,14,21:45,Empate
+Bahia,Ceará,Partida,Brasileirão 2018,2,1,34,2018,11,14,21:00,Vitória
+Paraná,Atlético Mineiro,Partida,Brasileirão 2018,0,1,34,2018,11,14,21:00,Derrota
+Vasco,Atlético Paranaense,Partida,Brasileirão 2018,1,1,34,2018,11,14,19:30,Empate
+Santos,Chapecoense,Partida,Brasileirão 2018,0,1,33,2018,11,12,20:00,Derrota
+Fluminense,Sport,Partida,Brasileirão 2018,0,0,33,2018,11,11,19:00,Empate
+Atlético Mineiro,Palmeiras,Partida,Brasileirão 2018,1,1,33,2018,11,11,17:00,Empate
+Ceará,Internacional,Partida,Brasileirão 2018,1,1,33,2018,11,11,17:00,Empate
+Grêmio,Vasco,Partida,Brasileirão 2018,2,1,33,2018,11,11,17:00,Vitória
+Vitória,Bahia,Partida,Brasileirão 2018,2,2,33,2018,11,11,17:00,Empate
+Atlético Paranaense,Cruzeiro,Partida,Brasileirão 2018,2,0,33,2018,11,10,19:00,Vitória
+Botafogo,Flamengo,Partida,Brasileirão 2018,2,1,33,2018,11,10,19:00,Vitória
+América Mineiro,Paraná,Partida,Brasileirão 2018,0,1,33,2018,11,10,17:00,Derrota
+Corinthians,São Paulo,Partida,Brasileirão 2018,1,1,33,2018,11,10,17:00,Empate
+Sport,Ceará,Partida,Brasileirão 2018,1,0,32,2018,11,5,20:00,Vitória
+Bahia,Chapecoense,Partida,Brasileirão 2018,1,0,32,2018,11,4,19:00,Vitória
+Internacional,Atlético Paranaense,Partida,Brasileirão 2018,2,1,32,2018,11,4,19:00,Vitória
+América Mineiro,Cruzeiro,Partida,Brasileirão 2018,1,2,32,2018,11,4,17:00,Derrota
+Botafogo,Corinthians,Partida,Brasileirão 2018,1,0,32,2018,11,4,17:00,Vitória
+Paraná,Vitória,Partida,Brasileirão 2018,1,1,32,2018,11,4,17:00,Empate
+São Paulo,Flamengo,Partida,Brasileirão 2018,2,2,32,2018,11,4,17:00,Empate
+Palmeiras,Santos,Partida,Brasileirão 2018,3,2,32,2018,11,3,19:00,Vitória
+Atlético Mineiro,Grêmio,Partida,Brasileirão 2018,0,1,32,2018,11,3,17:00,Derrota
+Fluminense,Vasco,Partida,Brasileirão 2018,0,1,32,2018,11,3,17:00,Derrota
+Ceará,Atlético Mineiro,Partida,Brasileirão 2018,2,1,31,2018,10,29,20:00,Vitória
+Atlético Paranaense,Botafogo,Partida,Brasileirão 2018,2,1,31,2018,10,27,22:00,Vitória
+Cruzeiro,Paraná,Partida,Brasileirão 2018,3,1,31,2018,10,27,22:00,Vitória
+Chapecoense,América Mineiro,Partida,Brasileirão 2018,1,0,31,2018,10,27,19:00,Vitória
+Corinthians,Bahia,Partida,Brasileirão 2018,2,1,31,2018,10,27,19:00,Vitória
+Flamengo,Palmeiras,Partida,Brasileirão 2018,1,1,31,2018,10,27,19:00,Empate
+Grêmio,Sport,Partida,Brasileirão 2018,3,4,31,2018,10,27,16:30,Derrota
+Santos,Fluminense,Partida,Brasileirão 2018,3,0,31,2018,10,27,16:30,Vitória
+Vasco,Internacional,Partida,Brasileirão 2018,1,1,31,2018,10,26,21:30,Empate
+Vitória,São Paulo,Partida,Brasileirão 2018,0,1,31,2018,10,26,19:30,Derrota
+Cruzeiro,Ceará,Partida,Brasileirão 2018,0,2,28,2018,10,24,19:30,Derrota
+Internacional,Santos,Partida,Brasileirão 2018,2,2,30,2018,10,22,20:00,Empate
+Cruzeiro,Chapecoense,Partida,Brasileirão 2018,3,0,30,2018,10,21,19:00,Vitória
+Paraná,Flamengo,Partida,Brasileirão 2018,0,4,30,2018,10,21,19:00,Derrota
+Fluminense,Atlético Mineiro,Partida,Brasileirão 2018,1,0,30,2018,10,21,16:00,Vitória
+Palmeiras,Ceará,Partida,Brasileirão 2018,2,1,30,2018,10,21,16:00,Vitória
+Vitória,Corinthians,Partida,Brasileirão 2018,2,2,30,2018,10,21,16:00,Empate
+São Paulo,Atlético Paranaense,Partida,Brasileirão 2018,0,0,30,2018,10,20,19:00,Empate
+Sport,Vasco,Partida,Brasileirão 2018,2,1,30,2018,10,20,19:00,Vitória
+América Mineiro,Grêmio,Partida,Brasileirão 2018,1,1,30,2018,10,20,16:00,Empate
+Botafogo,Bahia,Partida,Brasileirão 2018,0,1,30,2018,10,20,16:00,Derrota
+Ceará,Botafogo,Partida,Brasileirão 2018,0,0,29,2018,10,15,20:00,Empate
+Atlético Mineiro,América Mineiro,Partida,Brasileirão 2018,0,0,29,2018,10,14,19:00,Empate
+Atlético Paranaense,Sport,Partida,Brasileirão 2018,4,0,29,2018,10,14,19:00,Vitória
+Internacional,São Paulo,Partida,Brasileirão 2018,3,1,29,2018,10,14,16:00,Vitória
+Palmeiras,Grêmio,Partida,Brasileirão 2018,2,0,29,2018,10,14,16:00,Vitória
+Vasco,Cruzeiro,Partida,Brasileirão 2018,2,0,29,2018,10,14,16:00,Vitória
+Chapecoense,Vitória,Partida,Brasileirão 2018,0,1,29,2018,10,14,11:00,Derrota
+Bahia,Paraná,Partida,Brasileirão 2018,2,0,29,2018,10,13,21:00,Vitória
+Santos,Corinthians,Partida,Brasileirão 2018,1,0,29,2018,10,13,19:00,Vitória
+Flamengo,Fluminense,Partida,Brasileirão 2018,3,0,29,2018,10,13,17:00,Vitória
+Botafogo,Vasco,Partida,Brasileirão 2018,1,1,28,2018,10,9,21:00,Empate
+Fluminense,Paraná,Partida,Brasileirão 2018,4,0,28,2018,10,8,20:00,Vitória
+Grêmio,Bahia,Partida,Brasileirão 2018,2,2,28,2018,10,6,21:00,Empate
+São Paulo,Palmeiras,Partida,Brasileirão 2018,0,2,28,2018,10,6,18:00,Derrota
+Atlético Paranaense,América Mineiro,Partida,Brasileirão 2018,4,0,28,2018,10,6,16:00,Vitória
+Chapecoense,Atlético Mineiro,Partida,Brasileirão 2018,1,0,28,2018,10,6,16:00,Vitória
+Vitória,Santos,Partida,Brasileirão 2018,0,1,28,2018,10,5,21:30,Derrota
+Corinthians,Flamengo,Partida,Brasileirão 2018,0,3,28,2018,10,5,21:00,Derrota
+Sport,Internacional,Partida,Brasileirão 2018,2,1,28,2018,10,5,19:00,Vitória
+Paraná,Vasco,Partida,Brasileirão 2018,1,1,27,2018,10,1,20:00,Empate
+Ceará,Chapecoense,Partida,Brasileirão 2018,3,1,27,2018,9,30,19:00,Vitória
+Atlético Mineiro,Sport,Partida,Brasileirão 2018,5,2,27,2018,9,30,16:00,Vitória
+Botafogo,São Paulo,Partida,Brasileirão 2018,2,2,27,2018,9,30,16:00,Empate
+Internacional,Vitória,Partida,Brasileirão 2018,2,1,27,2018,9,30,16:00,Vitória
+Santos,Atlético Paranaense,Partida,Brasileirão 2018,1,0,27,2018,9,30,16:00,Vitória
+Palmeiras,Cruzeiro,Partida,Brasileirão 2018,3,1,27,2018,9,30,11:00,Vitória
+Bahia,Flamengo,Partida,Brasileirão 2018,0,0,27,2018,9,29,21:00,Empate
+América Mineiro,Corinthians,Partida,Brasileirão 2018,0,0,27,2018,9,29,19:00,Empate
+Fluminense,Grêmio,Partida,Brasileirão 2018,0,1,27,2018,9,29,16:00,Derrota
+Santos,Vasco,Partida,Brasileirão 2018,1,1,3,2018,9,27,20:00,Empate
+Chapecoense,Fluminense,Partida,Brasileirão 2018,1,2,26,2018,9,24,20:00,Derrota
+Vasco,Bahia,Partida,Brasileirão 2018,2,1,26,2018,9,24,20:00,Vitória
+Cruzeiro,Santos,Partida,Brasileirão 2018,2,1,26,2018,9,23,19:00,Vitória
+Sport,Palmeiras,Partida,Brasileirão 2018,0,1,26,2018,9,23,18:00,Derrota
+Vitória,Botafogo,Partida,Brasileirão 2018,3,4,26,2018,9,23,18:00,Derrota
+Atlético Paranaense,Paraná,Partida,Brasileirão 2018,3,0,26,2018,9,23,16:00,Vitória
+Corinthians,Internacional,Partida,Brasileirão 2018,1,1,26,2018,9,23,16:00,Empate
+Flamengo,Atlético Mineiro,Partida,Brasileirão 2018,2,1,26,2018,9,23,16:00,Vitória
+Grêmio,Ceará,Partida,Brasileirão 2018,3,2,26,2018,9,23,11:00,Vitória
+São Paulo,América Mineiro,Partida,Brasileirão 2018,1,1,26,2018,9,22,16:00,Empate
+Chapecoense,Internacional,Partida,Brasileirão 2018,2,1,25,2018,9,17,20:00,Vitória
+Corinthians,Sport,Partida,Brasileirão 2018,2,1,25,2018,9,16,19:00,Vitória
+Atlético Paranaense,Fluminense,Partida,Brasileirão 2018,3,1,25,2018,9,16,16:00,Vitória
+Bahia,Palmeiras,Partida,Brasileirão 2018,1,1,25,2018,9,16,16:00,Empate
+Cruzeiro,Atlético Mineiro,Partida,Brasileirão 2018,0,0,25,2018,9,16,16:00,Empate
+Santos,São Paulo,Partida,Brasileirão 2018,0,0,25,2018,9,16,16:00,Empate
+Botafogo,América Mineiro,Partida,Brasileirão 2018,1,0,25,2018,9,16,11:00,Vitória
+Vasco,Flamengo,Partida,Brasileirão 2018,1,1,25,2018,9,15,19:00,Empate
+Ceará,Vitória,Partida,Brasileirão 2018,2,0,25,2018,9,15,16:00,Vitória
+Grêmio,Paraná,Partida,Brasileirão 2018,2,0,25,2018,9,15,16:00,Vitória
+Chapecoense,Atlético Paranaense,Partida,Brasileirão 2018,2,1,20,2018,9,13,20:00,Vitória
+Atlético Mineiro,Atlético Paranaense,Partida,Brasileirão 2018,3,1,24,2018,9,10,20:00,Vitória
+Paraná,Santos,Partida,Brasileirão 2018,0,2,24,2018,9,9,19:00,Derrota
+Vitória,Vasco,Partida,Brasileirão 2018,1,0,24,2018,9,9,19:00,Vitória
+América Mineiro,Ceará,Partida,Brasileirão 2018,0,0,24,2018,9,9,16:00,Empate
+Fluminense,Botafogo,Partida,Brasileirão 2018,1,0,24,2018,9,9,16:00,Vitória
+Internacional,Grêmio,Partida,Brasileirão 2018,1,0,24,2018,9,9,16:00,Vitória
+Palmeiras,Corinthians,Partida,Brasileirão 2018,1,0,24,2018,9,9,16:00,Vitória
+Flamengo,Chapecoense,Partida,Brasileirão 2018,2,0,24,2018,9,8,21:00,Vitória
+São Paulo,Bahia,Partida,Brasileirão 2018,1,0,24,2018,9,8,19:00,Vitória
+Sport,Cruzeiro,Partida,Brasileirão 2018,0,0,24,2018,9,8,16:00,Empate
+América Mineiro,Vasco,Partida,Brasileirão 2018,2,1,23,2018,9,6,20:00,Vitória
+Fluminense,Vitória,Partida,Brasileirão 2018,0,0,23,2018,9,6,19:00,Empate
+Santos,Grêmio,Partida,Brasileirão 2018,0,0,23,2018,9,6,19:00,Empate
+Atlético Mineiro,São Paulo,Partida,Brasileirão 2018,1,0,23,2018,9,5,21:45,Vitória
+Internacional,Flamengo,Partida,Brasileirão 2018,2,1,23,2018,9,5,21:45,Vitória
+Palmeiras,Atlético Paranaense,Partida,Brasileirão 2018,2,0,23,2018,9,5,21:00,Vitória
+Paraná,Chapecoense,Partida,Brasileirão 2018,1,1,23,2018,9,5,21:00,Empate
+Ceará,Corinthians,Partida,Brasileirão 2018,2,1,23,2018,9,5,20:00,Vitória
+Bahia,Sport,Partida,Brasileirão 2018,2,0,23,2018,9,5,19:30,Vitória
+Botafogo,Cruzeiro,Partida,Brasileirão 2018,1,1,23,2018,9,5,19:30,Empate
+Chapecoense,Palmeiras,Partida,Brasileirão 2018,1,2,22,2018,9,2,19:00,Derrota
+Cruzeiro,Internacional,Partida,Brasileirão 2018,0,0,22,2018,9,2,19:00,Empate
+Atlético Paranaense,Bahia,Partida,Brasileirão 2018,2,0,22,2018,9,2,16:00,Vitória
+São Paulo,Fluminense,Partida,Brasileirão 2018,1,1,22,2018,9,2,16:00,Empate
+Sport,Paraná,Partida,Brasileirão 2018,1,0,22,2018,9,2,16:00,Vitória
+Flamengo,Ceará,Partida,Brasileirão 2018,0,1,22,2018,9,2,11:00,Derrota
+Corinthians,Atlético Mineiro,Partida,Brasileirão 2018,1,1,22,2018,9,1,21:00,Empate
+Vasco,Santos,Partida,Brasileirão 2018,0,3,22,2018,9,1,19:00,Derrota
+Grêmio,Botafogo,Partida,Brasileirão 2018,4,0,22,2018,9,1,16:00,Vitória
+Vitória,América Mineiro,Partida,Brasileirão 2018,1,0,22,2018,9,1,16:00,Vitória
+Atlético Paranaense,Vasco,Partida,Brasileirão 2018,1,0,15,2018,8,29,19:30,Vitória
+Ceará,Bahia,Partida,Brasileirão 2018,0,2,15,2018,8,29,19:30,Derrota
+Vasco,Chapecoense,Partida,Brasileirão 2018,3,1,21,2018,8,26,19:00,Vitória
+América Mineiro,Flamengo,Partida,Brasileirão 2018,2,2,21,2018,8,26,16:00,Empate
+Internacional,Palmeiras,Partida,Brasileirão 2018,0,0,21,2018,8,26,16:00,Empate
+Vitória,Atlético Mineiro,Partida,Brasileirão 2018,1,0,21,2018,8,26,16:00,Vitória
+São Paulo,Ceará,Partida,Brasileirão 2018,1,0,21,2018,8,26,11:00,Vitória
+Botafogo,Sport,Partida,Brasileirão 2018,2,0,21,2018,8,25,21:00,Vitória
+Cruzeiro,Fluminense,Partida,Brasileirão 2018,2,1,21,2018,8,25,21:00,Vitória
+Atlético Paranaense,Grêmio,Partida,Brasileirão 2018,2,1,21,2018,8,25,19:00,Vitória
+Corinthians,Paraná,Partida,Brasileirão 2018,1,0,21,2018,8,25,19:00,Vitória
+Santos,Bahia,Partida,Brasileirão 2018,2,0,21,2018,8,25,16:00,Vitória
+Atlético Mineiro,Vasco,Partida,Brasileirão 2018,0,0,20,2018,8,23,20:00,Empate
+Flamengo,Vitória,Partida,Brasileirão 2018,1,0,20,2018,8,23,19:30,Vitória
+Fluminense,Corinthians,Partida,Brasileirão 2018,1,0,20,2018,8,22,21:45,Vitória
+Grêmio,Cruzeiro,Partida,Brasileirão 2018,1,1,20,2018,8,22,21:45,Empate
+Palmeiras,Botafogo,Partida,Brasileirão 2018,2,0,20,2018,8,22,21:00,Vitória
+Sport,América Mineiro,Partida,Brasileirão 2018,0,2,20,2018,8,22,21:00,Derrota
+Bahia,Internacional,Partida,Brasileirão 2018,0,1,20,2018,8,22,19:30,Derrota
+Paraná,São Paulo,Partida,Brasileirão 2018,1,1,20,2018,8,22,19:30,Empate
+Vasco,Ceará,Partida,Brasileirão 2018,1,1,19,2018,8,20,20:00,Empate
+América Mineiro,Fluminense,Partida,Brasileirão 2018,0,0,19,2018,8,19,19:00,Empate
+São Paulo,Chapecoense,Partida,Brasileirão 2018,2,0,19,2018,8,19,19:00,Vitória
+Botafogo,Atlético Mineiro,Partida,Brasileirão 2018,0,3,19,2018,8,19,16:00,Derrota
+Cruzeiro,Bahia,Partida,Brasileirão 2018,1,1,19,2018,8,19,16:00,Empate
+Vitória,Palmeiras,Partida,Brasileirão 2018,0,3,19,2018,8,19,16:00,Derrota
+Atlético Paranaense,Flamengo,Partida,Brasileirão 2018,3,0,19,2018,8,19,11:00,Vitória
+Internacional,Paraná,Partida,Brasileirão 2018,1,0,19,2018,8,19,11:00,Vitória
+Corinthians,Grêmio,Partida,Brasileirão 2018,0,1,19,2018,8,18,19:00,Derrota
+Santos,Sport,Partida,Brasileirão 2018,3,0,19,2018,8,18,16:00,Vitória
+Fluminense,Internacional,Partida,Brasileirão 2018,0,3,18,2018,8,13,20:00,Derrota
+Grêmio,Vitória,Partida,Brasileirão 2018,4,0,18,2018,8,12,19:00,Vitória
+Palmeiras,Vasco,Partida,Brasileirão 2018,1,0,18,2018,8,12,19:00,Vitória
+Chapecoense,Corinthians,Partida,Brasileirão 2018,2,1,18,2018,8,12,16:00,Vitória
+Flamengo,Cruzeiro,Partida,Brasileirão 2018,1,0,18,2018,8,12,16:00,Vitória
+Sport,São Paulo,Partida,Brasileirão 2018,1,3,18,2018,8,12,16:00,Derrota
+Atlético Mineiro,Santos,Partida,Brasileirão 2018,3,1,18,2018,8,12,11:00,Vitória
+Paraná,Botafogo,Partida,Brasileirão 2018,1,1,18,2018,8,12,11:00,Empate
+Bahia,América Mineiro,Partida,Brasileirão 2018,1,0,18,2018,8,11,19:00,Vitória
+Ceará,Atlético Paranaense,Partida,Brasileirão 2018,0,0,18,2018,8,11,16:00,Empate
+Ceará,Santos,Partida,Brasileirão 2018,1,1,20,2018,8,8,19:30,Empate
+Atlético Mineiro,Internacional,Partida,Brasileirão 2018,0,1,17,2018,8,6,20:00,Derrota
+Fluminense,Bahia,Partida,Brasileirão 2018,1,1,17,2018,8,5,19:00,Empate
+Sport,Chapecoense,Partida,Brasileirão 2018,1,1,17,2018,8,5,19:00,Empate
+América Mineiro,Palmeiras,Partida,Brasileirão 2018,0,0,17,2018,8,5,16:00,Empate
+Paraná,Ceará,Partida,Brasileirão 2018,0,1,17,2018,8,5,16:00,Derrota
+São Paulo,Vasco,Partida,Brasileirão 2018,2,1,17,2018,8,5,16:00,Vitória
+Vitória,Cruzeiro,Partida,Brasileirão 2018,1,1,17,2018,8,5,16:00,Empate
+Corinthians,Atlético Paranaense,Partida,Brasileirão 2018,0,0,17,2018,8,4,21:00,Empate
+Grêmio,Flamengo,Partida,Brasileirão 2018,2,0,17,2018,8,4,19:00,Vitória
+Botafogo,Santos,Partida,Brasileirão 2018,0,0,17,2018,8,4,16:00,Empate
+Bahia,Atlético Mineiro,Partida,Brasileirão 2018,2,2,16,2018,7,30,20:00,Empate
+Chapecoense,Grêmio,Partida,Brasileirão 2018,1,1,16,2018,7,29,19:00,Empate
+Santos,América Mineiro,Partida,Brasileirão 2018,0,1,16,2018,7,29,19:00,Derrota
+Atlético Paranaense,Vitória,Partida,Brasileirão 2018,4,0,16,2018,7,29,16:00,Vitória
+Cruzeiro,São Paulo,Partida,Brasileirão 2018,0,2,16,2018,7,29,16:00,Derrota
+Flamengo,Sport,Partida,Brasileirão 2018,4,1,16,2018,7,29,16:00,Vitória
+Internacional,Botafogo,Partida,Brasileirão 2018,3,0,16,2018,7,29,16:00,Vitória
+Palmeiras,Paraná,Partida,Brasileirão 2018,3,0,16,2018,7,29,11:00,Vitória
+Vasco,Corinthians,Partida,Brasileirão 2018,1,4,16,2018,7,29,11:00,Derrota
+Ceará,Fluminense,Partida,Brasileirão 2018,1,0,16,2018,7,28,16:00,Vitória
+América Mineiro,Internacional,Partida,Brasileirão 2018,2,1,15,2018,7,26,20:00,Vitória
+Botafogo,Chapecoense,Partida,Brasileirão 2018,1,0,15,2018,7,26,19:30,Vitória
+Grêmio,São Paulo,Partida,Brasileirão 2018,2,1,15,2018,7,26,19:30,Vitória
+Vitória,Sport,Partida,Brasileirão 2018,1,0,15,2018,7,26,19:30,Vitória
+Corinthians,Cruzeiro,Partida,Brasileirão 2018,2,0,15,2018,7,25,21:45,Vitória
+Santos,Flamengo,Partida,Brasileirão 2018,1,1,15,2018,7,25,21:45,Empate
+Atlético Mineiro,Paraná,Partida,Brasileirão 2018,2,0,15,2018,7,25,21:00,Vitória
+Fluminense,Palmeiras,Partida,Brasileirão 2018,1,0,15,2018,7,25,19:30,Vitória
+Internacional,Ceará,Partida,Brasileirão 2018,1,0,14,2018,7,23,20:00,Vitória
+Chapecoense,Santos,Partida,Brasileirão 2018,0,0,14,2018,7,22,19:00,Empate
+Cruzeiro,Atlético Paranaense,Partida,Brasileirão 2018,2,1,14,2018,7,22,19:00,Vitória
+Bahia,Vitória,Partida,Brasileirão 2018,4,1,14,2018,7,22,16:00,Vitória
+Palmeiras,Atlético Mineiro,Partida,Brasileirão 2018,3,2,14,2018,7,22,16:00,Vitória
+Paraná,América Mineiro,Partida,Brasileirão 2018,1,0,14,2018,7,22,16:00,Vitória
+Sport,Fluminense,Partida,Brasileirão 2018,1,2,14,2018,7,22,16:00,Derrota
+Vasco,Grêmio,Partida,Brasileirão 2018,1,0,14,2018,7,22,16:00,Vitória
+São Paulo,Corinthians,Partida,Brasileirão 2018,3,1,14,2018,7,21,21:00,Vitória
+Flamengo,Botafogo,Partida,Brasileirão 2018,2,0,14,2018,7,21,19:00,Vitória
+Atlético Paranaense,Internacional,Partida,Brasileirão 2018,2,2,13,2018,7,19,21:00,Empate
+Santos,Palmeiras,Partida,Brasileirão 2018,1,1,13,2018,7,19,20:00,Empate
+Vasco,Fluminense,Partida,Brasileirão 2018,1,1,13,2018,7,19,20:00,Empate
+Chapecoense,Bahia,Partida,Brasileirão 2018,1,1,13,2018,7,19,19:30,Empate
+Cruzeiro,América Mineiro,Partida,Brasileirão 2018,3,1,13,2018,7,19,19:30,Vitória
+Corinthians,Botafogo,Partida,Brasileirão 2018,2,0,13,2018,7,18,21:45,Vitória
+Flamengo,São Paulo,Partida,Brasileirão 2018,0,1,13,2018,7,18,21:45,Derrota
+Grêmio,Atlético Mineiro,Partida,Brasileirão 2018,2,0,13,2018,7,18,21:45,Vitória
+Vitória,Paraná,Partida,Brasileirão 2018,1,0,13,2018,7,18,21:00,Vitória
+Ceará,Sport,Partida,Brasileirão 2018,1,0,13,2018,7,18,19:30,Vitória
+Atlético Mineiro,Ceará,Partida,Brasileirão 2018,2,1,12,2018,6,13,21:45,Vitória
+Bahia,Corinthians,Partida,Brasileirão 2018,1,0,12,2018,6,13,21:45,Vitória
+Internacional,Vasco,Partida,Brasileirão 2018,3,1,12,2018,6,13,21:45,Vitória
+Botafogo,Atlético Paranaense,Partida,Brasileirão 2018,2,0,12,2018,6,13,21:00,Vitória
+Palmeiras,Flamengo,Partida,Brasileirão 2018,1,1,12,2018,6,13,21:00,Empate
+Paraná,Cruzeiro,Partida,Brasileirão 2018,1,1,12,2018,6,13,19:30,Empate
+Sport,Grêmio,Partida,Brasileirão 2018,0,0,12,2018,6,13,19:30,Empate
+Fluminense,Santos,Partida,Brasileirão 2018,0,1,12,2018,6,13,19:00,Derrota
+América Mineiro,Chapecoense,Partida,Brasileirão 2018,0,0,12,2018,6,13,16:00,Empate
+São Paulo,Vitória,Partida,Brasileirão 2018,3,0,12,2018,6,12,21:30,Vitória
+Flamengo,Paraná,Partida,Brasileirão 2018,2,0,11,2018,6,10,19:00,Vitória
+Santos,Internacional,Partida,Brasileirão 2018,1,2,11,2018,6,10,19:00,Derrota
+Atlético Mineiro,Fluminense,Partida,Brasileirão 2018,5,2,11,2018,6,10,16:00,Vitória
+Bahia,Botafogo,Partida,Brasileirão 2018,3,3,11,2018,6,10,16:00,Empate
+Ceará,Palmeiras,Partida,Brasileirão 2018,2,2,11,2018,6,10,16:00,Empate
+Grêmio,América Mineiro,Partida,Brasileirão 2018,1,0,11,2018,6,10,16:00,Vitória
+Corinthians,Vitória,Partida,Brasileirão 2018,0,0,11,2018,6,9,21:00,Empate
+Chapecoense,Cruzeiro,Partida,Brasileirão 2018,2,0,11,2018,6,9,19:00,Vitória
+Vasco,Sport,Partida,Brasileirão 2018,3,2,11,2018,6,9,19:00,Vitória
+Atlético Paranaense,São Paulo,Partida,Brasileirão 2018,0,1,11,2018,6,9,16:00,Derrota
+América Mineiro,Atlético Mineiro,Partida,Brasileirão 2018,1,3,10,2018,6,7,21:00,Derrota
+Fluminense,Flamengo,Partida,Brasileirão 2018,0,2,10,2018,6,7,20:00,Derrota
+Paraná,Bahia,Partida,Brasileirão 2018,1,0,10,2018,6,7,20:00,Vitória
+Cruzeiro,Vasco,Partida,Brasileirão 2018,1,1,10,2018,6,6,21:45,Empate
+Grêmio,Palmeiras,Partida,Brasileirão 2018,0,2,10,2018,6,6,21:45,Derrota
+Corinthians,Santos,Partida,Brasileirão 2018,1,1,10,2018,6,6,21:00,Empate
+Sport,Atlético Paranaense,Partida,Brasileirão 2018,1,0,10,2018,6,6,21:00,Vitória
+Botafogo,Ceará,Partida,Brasileirão 2018,0,0,10,2018,6,6,19:30,Empate
+Vitória,Chapecoense,Partida,Brasileirão 2018,1,0,10,2018,6,6,19:30,Vitória
+São Paulo,Internacional,Partida,Brasileirão 2018,0,0,10,2018,6,5,21:30,Empate
+Paraná,Fluminense,Partida,Brasileirão 2018,2,1,9,2018,6,4,20:00,Vitória
+Ceará,Cruzeiro,Partida,Brasileirão 2018,0,1,9,2018,6,3,19:00,Derrota
+América Mineiro,Atlético Paranaense,Partida,Brasileirão 2018,3,1,9,2018,6,3,16:00,Vitória
+Bahia,Grêmio,Partida,Brasileirão 2018,0,2,9,2018,6,3,16:00,Derrota
+Flamengo,Corinthians,Partida,Brasileirão 2018,1,0,9,2018,6,3,16:00,Vitória
+Santos,Vitória,Partida,Brasileirão 2018,5,2,9,2018,6,3,16:00,Vitória
+Palmeiras,São Paulo,Partida,Brasileirão 2018,3,1,9,2018,6,2,21:00,Vitória
+Vasco,Botafogo,Partida,Brasileirão 2018,1,2,9,2018,6,2,19:00,Derrota
+Atlético Mineiro,Chapecoense,Partida,Brasileirão 2018,3,3,9,2018,6,2,16:00,Empate
+Internacional,Sport,Partida,Brasileirão 2018,0,0,9,2018,6,2,16:00,Empate
+Atlético Paranaense,Santos,Partida,Brasileirão 2018,2,0,8,2018,5,31,21:00,Vitória
+Corinthians,América Mineiro,Partida,Brasileirão 2018,1,0,8,2018,5,31,18:00,Vitória
+Flamengo,Bahia,Partida,Brasileirão 2018,2,0,8,2018,5,31,16:00,Vitória
+Cruzeiro,Palmeiras,Partida,Brasileirão 2018,1,0,8,2018,5,30,21:45,Vitória
+Grêmio,Fluminense,Partida,Brasileirão 2018,0,0,8,2018,5,30,21:45,Empate
+Chapecoense,Ceará,Partida,Brasileirão 2018,2,0,8,2018,5,30,21:00,Vitória
+São Paulo,Botafogo,Partida,Brasileirão 2018,3,2,8,2018,5,30,21:00,Vitória
+Sport,Atlético Mineiro,Partida,Brasileirão 2018,3,2,8,2018,5,30,19:30,Vitória
+Vasco,Paraná,Partida,Brasileirão 2018,1,0,8,2018,5,30,19:30,Vitória
+Vitória,Internacional,Partida,Brasileirão 2018,2,3,8,2018,5,30,19:30,Derrota
+América Mineiro,São Paulo,Partida,Brasileirão 2018,1,3,7,2018,5,27,19:00,Derrota
+Ceará,Grêmio,Partida,Brasileirão 2018,0,1,7,2018,5,27,19:00,Derrota
+Bahia,Vasco,Partida,Brasileirão 2018,3,0,7,2018,5,27,16:00,Vitória
+Botafogo,Vitória,Partida,Brasileirão 2018,1,1,7,2018,5,27,16:00,Empate
+Internacional,Corinthians,Partida,Brasileirão 2018,2,1,7,2018,5,27,16:00,Vitória
+Santos,Cruzeiro,Partida,Brasileirão 2018,0,1,7,2018,5,27,16:00,Derrota
+Paraná,Atlético Paranaense,Partida,Brasileirão 2018,0,0,7,2018,5,27,11:00,Empate
+Atlético Mineiro,Flamengo,Partida,Brasileirão 2018,0,1,7,2018,5,26,21:00,Derrota
+Palmeiras,Sport,Partida,Brasileirão 2018,2,3,7,2018,5,26,19:00,Derrota
+Fluminense,Chapecoense,Partida,Brasileirão 2018,3,1,7,2018,5,26,16:00,Vitória
+Internacional,Chapecoense,Partida,Brasileirão 2018,3,0,6,2018,5,21,20:00,Vitória
+Fluminense,Atlético Paranaense,Partida,Brasileirão 2018,2,0,6,2018,5,20,19:00,Vitória
+América Mineiro,Botafogo,Partida,Brasileirão 2018,1,0,6,2018,5,20,16:00,Vitória
+Paraná,Grêmio,Partida,Brasileirão 2018,0,0,6,2018,5,20,16:00,Empate
+São Paulo,Santos,Partida,Brasileirão 2018,1,0,6,2018,5,20,16:00,Vitória
+Sport,Corinthians,Partida,Brasileirão 2018,1,1,6,2018,5,20,16:00,Empate
+Vitória,Ceará,Partida,Brasileirão 2018,2,1,6,2018,5,20,11:00,Vitória
+Palmeiras,Bahia,Partida,Brasileirão 2018,3,0,6,2018,5,19,21:00,Vitória
+Flamengo,Vasco,Partida,Brasileirão 2018,1,1,6,2018,5,19,19:00,Empate
+Atlético Mineiro,Cruzeiro,Partida,Brasileirão 2018,1,0,6,2018,5,19,16:00,Vitória
+Botafogo,Fluminense,Partida,Brasileirão 2018,2,1,5,2018,5,14,20:00,Vitória
+Ceará,América Mineiro,Partida,Brasileirão 2018,2,2,5,2018,5,14,20:00,Empate
+Santos,Paraná,Partida,Brasileirão 2018,3,1,5,2018,5,13,19:00,Vitória
+Atlético Paranaense,Atlético Mineiro,Partida,Brasileirão 2018,1,2,5,2018,5,13,16:00,Derrota
+Bahia,São Paulo,Partida,Brasileirão 2018,2,2,5,2018,5,13,16:00,Empate
+Chapecoense,Flamengo,Partida,Brasileirão 2018,3,2,5,2018,5,13,16:00,Vitória
+Corinthians,Palmeiras,Partida,Brasileirão 2018,1,0,5,2018,5,13,16:00,Vitória
+Vasco,Vitória,Partida,Brasileirão 2018,2,3,5,2018,5,13,16:00,Derrota
+Cruzeiro,Sport,Partida,Brasileirão 2018,2,0,5,2018,5,13,11:00,Vitória
+Grêmio,Internacional,Partida,Brasileirão 2018,0,0,5,2018,5,12,16:00,Empate
+Chapecoense,Paraná,Partida,Brasileirão 2018,1,1,4,2018,5,7,20:00,Empate
+Grêmio,Santos,Partida,Brasileirão 2018,5,1,4,2018,5,6,19:00,Vitória
+Sport,Bahia,Partida,Brasileirão 2018,2,0,4,2018,5,6,19:00,Vitória
+Atlético Paranaense,Palmeiras,Partida,Brasileirão 2018,1,3,4,2018,5,6,16:00,Derrota
+Cruzeiro,Botafogo,Partida,Brasileirão 2018,1,0,4,2018,5,6,16:00,Vitória
+Flamengo,Internacional,Partida,Brasileirão 2018,2,0,4,2018,5,6,16:00,Vitória
+Vitória,Fluminense,Partida,Brasileirão 2018,1,2,4,2018,5,6,16:00,Derrota
+Corinthians,Ceará,Partida,Brasileirão 2018,1,1,4,2018,5,6,11:00,Empate
+São Paulo,Atlético Mineiro,Partida,Brasileirão 2018,2,2,4,2018,5,5,19:00,Empate
+Vasco,América Mineiro,Partida,Brasileirão 2018,4,1,4,2018,5,5,19:00,Vitória
+América Mineiro,Vitória,Partida,Brasileirão 2018,2,1,3,2018,4,30,20:00,Vitória
+Internacional,Cruzeiro,Partida,Brasileirão 2018,0,0,3,2018,4,29,19:00,Empate
+Atlético Mineiro,Corinthians,Partida,Brasileirão 2018,1,0,3,2018,4,29,16:00,Vitória
+Bahia,Atlético Paranaense,Partida,Brasileirão 2018,0,0,3,2018,4,29,16:00,Empate
+Ceará,Flamengo,Partida,Brasileirão 2018,0,3,3,2018,4,29,16:00,Derrota
+Fluminense,São Paulo,Partida,Brasileirão 2018,1,1,3,2018,4,29,16:00,Empate
+Palmeiras,Chapecoense,Partida,Brasileirão 2018,0,0,3,2018,4,29,16:00,Empate
+Paraná,Sport,Partida,Brasileirão 2018,1,2,3,2018,4,29,16:00,Derrota
+Botafogo,Grêmio,Partida,Brasileirão 2018,2,1,3,2018,4,28,16:00,Vitória
+Sport,Botafogo,Partida,Brasileirão 2018,1,1,2,2018,4,23,20:00,Empate
+Grêmio,Atlético Paranaense,Partida,Brasileirão 2018,0,0,2,2018,4,22,19:00,Empate
+Atlético Mineiro,Vitória,Partida,Brasileirão 2018,2,1,2,2018,4,22,16:00,Vitória
+Ceará,São Paulo,Partida,Brasileirão 2018,0,0,2,2018,4,22,16:00,Empate
+Chapecoense,Vasco,Partida,Brasileirão 2018,1,1,2,2018,4,22,16:00,Empate
+Fluminense,Cruzeiro,Partida,Brasileirão 2018,1,0,2,2018,4,22,16:00,Vitória
+Palmeiras,Internacional,Partida,Brasileirão 2018,1,0,2,2018,4,22,16:00,Vitória
+Paraná,Corinthians,Partida,Brasileirão 2018,0,4,2,2018,4,22,11:00,Derrota
+Flamengo,América Mineiro,Partida,Brasileirão 2018,2,0,2,2018,4,21,19:00,Vitória
+Bahia,Santos,Partida,Brasileirão 2018,1,0,2,2018,4,21,16:00,Vitória
+Botafogo,Palmeiras,Partida,Brasileirão 2018,1,1,1,2018,4,16,20:00,Empate
+São Paulo,Paraná,Partida,Brasileirão 2018,1,0,1,2018,4,16,20:00,Vitória
+Atlético Paranaense,Chapecoense,Partida,Brasileirão 2018,5,1,1,2018,4,15,19:00,Vitória
+Corinthians,Fluminense,Partida,Brasileirão 2018,2,1,1,2018,4,15,16:00,Vitória
+Internacional,Bahia,Partida,Brasileirão 2018,2,0,1,2018,4,15,16:00,Vitória
+Vasco,Atlético Mineiro,Partida,Brasileirão 2018,2,1,1,2018,4,15,16:00,Vitória
+América Mineiro,Sport,Partida,Brasileirão 2018,3,0,1,2018,4,15,11:00,Vitória
+Santos,Ceará,Partida,Brasileirão 2018,2,0,1,2018,4,14,21:00,Vitória
+Vitória,Flamengo,Partida,Brasileirão 2018,2,2,1,2018,4,14,19:00,Empate
+Cruzeiro,Grêmio,Partida,Brasileirão 2018,0,1,1,2018,4,14,16:00,Derrota
